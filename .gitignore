@@ -38,3 +38,13 @@ captures/
 
 # Keystore files
 *.jks
+
+# Built-in Android Studio git ignore =====================================
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
